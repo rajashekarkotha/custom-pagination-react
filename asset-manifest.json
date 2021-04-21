@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/custom-pagination-react/static/css/main.9b474e16.chunk.css",
+    "main.js": "/custom-pagination-react/static/js/main.ffeb9295.chunk.js",
+    "main.js.map": "/custom-pagination-react/static/js/main.ffeb9295.chunk.js.map",
+    "runtime-main.js": "/custom-pagination-react/static/js/runtime-main.7ea4afab.js",
+    "runtime-main.js.map": "/custom-pagination-react/static/js/runtime-main.7ea4afab.js.map",
+    "static/js/2.91b5638b.chunk.js": "/custom-pagination-react/static/js/2.91b5638b.chunk.js",
+    "static/js/2.91b5638b.chunk.js.map": "/custom-pagination-react/static/js/2.91b5638b.chunk.js.map",
+    "static/js/3.9a8af3b8.chunk.js": "/custom-pagination-react/static/js/3.9a8af3b8.chunk.js",
+    "static/js/3.9a8af3b8.chunk.js.map": "/custom-pagination-react/static/js/3.9a8af3b8.chunk.js.map",
+    "index.html": "/custom-pagination-react/index.html",
+    "static/css/main.9b474e16.chunk.css.map": "/custom-pagination-react/static/css/main.9b474e16.chunk.css.map",
+    "static/js/2.91b5638b.chunk.js.LICENSE.txt": "/custom-pagination-react/static/js/2.91b5638b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ea4afab.js",
+    "static/js/2.91b5638b.chunk.js",
+    "static/css/main.9b474e16.chunk.css",
+    "static/js/main.ffeb9295.chunk.js"
+  ]
+}
